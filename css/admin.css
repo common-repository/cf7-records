@@ -1,0 +1,17 @@
+.form-table.contact-form-record-submission {
+    width: 100%;
+}
+.form-table.contact-form-record-submission td {
+    word-break: break-word;
+}
+
+#post-body-content {
+    display: none;
+}
+
+.wpcf7records-export {
+    margin: 1px 8px 0 0;
+}
+table.fixed{
+    width: 100% !important;
+}
